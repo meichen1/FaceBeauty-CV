@@ -16,13 +16,16 @@ This is a CV project:
 labels and predictions:
 
 - A glance at the photos:
+  
   ![Image](img/__results___9_0.png)
 
 - Keypoint detection model from torchvision:
+  
   ![Image](img/__results___20_0.png)
 
 - Finetuned ViT model:
-![Image](img/__results___48_0.png)
+  
+ ![Image](img/__results___48_0.png)
 
 
 
