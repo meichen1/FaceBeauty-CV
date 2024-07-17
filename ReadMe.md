@@ -10,7 +10,10 @@ This is a CV project:
 
 - Hyperparameter tuning using Weight and Biases.
 
+- Check the notebook at kaggle: https://www.kaggle.com/code/meichenliu/notebooka-face-beauty
+
 Some labels and predictions:
+
 
 
   
